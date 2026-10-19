@@ -1,0 +1,14 @@
+
+SYNTHETIC DATASET VALIDATION REPORT
+-----------------------------------
+Total records: 30
+Expected records: 30
+Record count valid: True
+Missing values: 0
+Duplicate rows: 0
+Missing columns: []
+Extra columns: []
+Data type checks: {'student_id': True, 'name': True, 'age': True, 'course': True, 'marks': True, 'attendance': True}
+Value ranges and consistency valid: True
+Schema valid: True
+Overall validation: PASS
